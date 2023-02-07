@@ -1,0 +1,132 @@
+
+/* General Styling */
+* {
+  padding: 0;                      
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none !important;
+  list-style-type: none;
+  font-family: "Poppins", sans-serif;
+}
+
+/* html {
+  scroll-behavior: smooth;
+} */
+a {
+  display: inline-block;
+  color: #000;
+  transition: all 300ms ease-in-out;
+}
+ul,
+ol,
+dl {
+  margin-bottom: 0;
+}
+.imgFluid {
+  max-width: 100%;
+  height: auto;
+}
+button {
+  cursor: pointer;
+  transition: all 300ms ease-in-out;
+}
+i[class^="bx"] {
+  vertical-align: middle;
+}
+::after,
+::before {
+  transition: all 300ms ease-in-out;
+}
+
+.mar-y{
+  margin: 4.5rem 0;
+}
+
+.object-fit {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* ThemeBtn */
+.themeBtn {
+  width: fit-content;
+  display: block;
+  background-color: var(--color-primary);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  padding: 0.75rem 2.25rem;
+}
+.themeBtn--center {
+  margin: 0.5rem auto;
+}
+.themeBtn:hover {
+  transform: translateY(-10px);
+}
+/* Section Heading */
+.section-content {
+  color: #000;
+}
+.section-content span {
+  color: var(--color-primary);
+}
+.section-content h3 {
+  font-size: 3rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.section-content p {
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.75;
+}
+
+.kundendaten-detils {
+  justify-content: center;
+  gap: 1rem;
+}
+
+
+.mainLogo-img img {
+  width: 100%;
+  height: 100%; 
+  object-fit: cover;
+}
+
+.unseveImg img {
+  height: 300px;
+  object-fit: contain;
+}
+
+.kunden {
+  border-top: 4px solid #c1c1c1;
+  padding: 3rem 0;
+  border-bottom: 4px solid #c1c1c1;
+}
+
+.detils-title h4 { 
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+
+/* .volimee {
+  background-color: antiquewhite;
+  padding: 3rem 0;
+} */
+
+/* .footer-icon ul {
+  gap: 1.5rem;
+} */
+h4{
+  color: rgb(56, 27, 27);
+}
+/* footer{
+    size: 10px;
+} */
+style="font-size: 13px; text-align: centemin">
+.min{
+  text-
+}
